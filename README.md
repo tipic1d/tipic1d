@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tipic1d
 - 👀 I’m interested in basically everything, ranging from WebDev to AI.
 - 🌱 I’m currently learning Python/Django
-- 💞️ I’m looking to collaborate on <!-- Will see! -->
+- 💞️ I’m looking to collaborate on "<!-- Will see! -->"
 - 📫 How to reach me: TipicIdiot#6360 on Discord!
 
 <!---
